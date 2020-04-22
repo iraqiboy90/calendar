@@ -24,6 +24,7 @@ following plugins installed:
 
 * kolab/libcalendaring [1]
 * kolab/libkolab [1]
+* php-sabre-vobject package (Centos 7, if installing calendar in manual way)
 
 
 INSTALLATION
